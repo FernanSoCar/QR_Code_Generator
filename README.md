@@ -30,9 +30,9 @@ Welcome to the **QR_Code_Generator**! This app allows you to generate QR codes e
 
 ## Screenshots
 
-![App Screenshot 1](screenshots/Capturadetela2024-08-18033137.png)
+![App Screenshot 1](screenshots/Interface.png)
 
-![App Screenshot 2](screenshots/Capturadetela2024-08-18033458.png)
+![App Screenshot 2](screenshots/Creating_qrcode.png)
 
 ![App Screenshot 3](screenshots/Youtube.png)
 
