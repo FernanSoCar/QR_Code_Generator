@@ -25,8 +25,9 @@ Welcome to the **QR_Code_Generator**! This app allows you to generate QR codes e
 
 1. Launch the app by double-clicking the `app.exe` file.
 2. Use the interface to:
-   - Set the desired password length.
-   - Click the "Generate" button to create a random password.
+   - Type the link
+   - File name
+   - Click the "Generate" button to create a QR Code.
 
 ## Screenshots
 
