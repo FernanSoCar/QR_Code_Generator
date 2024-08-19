@@ -39,7 +39,7 @@ class QRCodeGenerator:
         qr.make(fit=True)
         img = qr.make_image(fill_color='black', back_color='white')
 
-        # Adiciona a extensão .png ao nome do arquivo se não estiver presente
+        
         if not filename.lower().endswith('.png'):
             filename += '.png'
 
